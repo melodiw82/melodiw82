@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════════════════════════════════════════════
      NEON PROFILE  //  melodiw82  //  Zahra Rafiei — AI Engineer
-     Cyberpunk edition — banners, live stats, 3D contribution grid
+     Cyberpunk edition — live stats, 3D contribution grid
      ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D0221,45:2D0B59,100:0D0221&text=ZAHRA%20RAFIEI&fontSize=62&fontColor=00F0FF&fontAlign=50&fontAlignY=38&desc=AI%20Engineer&descSize=20&descAlign=50&descAlignY=60&animation=twinkling" alt="banner"/>
+<h1>Zahra Rafiei</h1>
 
 <a href="https://github.com/melodiw82"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=820&height=70&lines=AI+Engineer;LLM+Security" alt="Typing SVG"/></a>
 
