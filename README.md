@@ -1,13 +1,11 @@
 <!-- ═══════════════════════════════════════════════════════════════════
      NEON PROFILE  //  melodiw82  //  Zahra Rafiei — AI Engineer
-     Cyberpunk edition — live stats, 3D contribution grid
+     Cyberpunk edition — live stats
      ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<h1>Zahra Rafiei</h1>
-
-<a href="https://github.com/melodiw82"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=820&height=70&lines=AI+Engineer;LLM+Security" alt="Typing SVG"/></a>
+<a href="https://github.com/melodiw82"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=820&height=70&lines=Zahra+Rafiei;AI+Engineer;LLM+Security" alt="Typing SVG"/></a>
 
 <br/>
 
@@ -79,15 +77,5 @@
 <div align="center">
 
 <a href="https://github.com/melodiw82?tab=repositories"><img src="https://img.shields.io/badge/SEE%20ALL%20REPOS-0D0221?style=for-the-badge&logo=github&logoColor=00F0FF"/></a>
-
-</div>
-
----
-
-## Contributions
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/melodiw82/melodiw82/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
 
 </div>
