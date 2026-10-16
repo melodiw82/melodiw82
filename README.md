@@ -1,13 +1,13 @@
 <!-- ═══════════════════════════════════════════════════════════════════
-     NEON PROFILE  //  melodiw82  //  Zahra Rafiei
+     NEON PROFILE  //  melodiw82  //  Zahra Rafiei — AI Engineer
      Cyberpunk edition — banners, live stats, snake grid
      ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D0221,45:2D0B59,100:0D0221&text=ZAHRA%20RAFIEI&fontSize=62&fontColor=00F0FF&fontAlign=50&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20LLM%20Agent%20Builder&descSize=20&descAlign=50&descAlignY=60&animation=twinkling" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D0221,45:2D0B59,100:0D0221&text=ZAHRA%20RAFIEI&fontSize=62&fontColor=00F0FF&fontAlign=50&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Agents%20%26%20Security&descSize=20&descAlign=50&descAlignY=60&animation=twinkling" alt="banner"/>
 
-<a href="https://github.com/melodiw82"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=780&height=70&lines=Building+autonomous+LLM+agents;Shipping+OpenAI-compatible+tooling;Python+%7C+TypeScript+%7C+Deep+Learning;Turning+raw+data+into+decisions;Wired+for+the+neon+grid+%E2%9A%A1" alt="Typing SVG"/></a>
+<a href="https://github.com/melodiw82"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=820&height=70&lines=AI+Engineer+%40+Searchia;Building+autonomous+LLM+agents;Adversarial+LLM+security+%26+evals;Python+%7C+TypeScript+%7C+Deep+Learning;Wired+for+the+neon+grid+%E2%9A%A1" alt="Typing SVG"/></a>
 
 <br/>
 
@@ -25,16 +25,47 @@
 
 ```python
 class ZahraRafiei:
-    role     = "AI/ML Engineer"
-    focus    = ["LLM agents", "applied ML", "data pipelines", "network freedom"]
-    stack    = ["Python", "TypeScript", "PyTorch", "React"]
-    building = "tools that make AI useful, fast, and open"
+    name     = "Zahra Rafiei"
+    role     = "AI Engineer @ Searchia"
+    location = "Yazd, Iran"
+    focus    = ["LLM agents", "adversarial LLM security", "applied ML", "data pipelines"]
+
+    experience = {
+        "Searchia":        "AI Engineer / Software Developer",
+        "ELLA":            "Junior AI Engineer — agents, ChromaDB, LangGraph",
+        "Quera":           "Data Science Intern",
+        "Yazd University": "Teaching Assistant — Data Structures",
+    }
 
     def mission(self) -> str:
-        return "Break the problem down. Ship the neon. Iterate."
+        return "Build AI that is useful, fast, and trustworthy. Ship the neon. Iterate."
 ```
 
-> ⚡ I live at the edge of the stack — LLM tooling, messy real-world data, and the networks in between.
+> ⚡ AI Engineer working across LLM agent systems, model security, and applied machine learning on messy real-world data.
+
+---
+
+## `> experience --timeline`
+
+| 💼 Role | 🏢 Org | 🗓️ When |
+|:--|:--|:--|
+| **AI Engineer** | Searchia · *Remote* | Aug 2026 – Present |
+| **Software Developer** | Searchia · *Remote* | Jan 2026 – Aug 2026 |
+| **Junior AI Engineer** | ELLA — Exclusive Large Language Assistant | Mar 2025 – Dec 2025 |
+| **Data Science Intern** | Quera | Mar 2024 – Aug 2024 |
+| **Teaching Assistant — Data Structures** | Yazd University | Jan 2024 – Jun 2024 |
+
+**🎓 Education** — B.Sc. Computer Engineering (Software), **Yazd University** · Sep 2022 – Feb 2025 · **GPA 18.79** · 🥇 ranked **1st** in the 2022 cohort · NODET (Sampad)
+
+---
+
+## `> achievements --unlocked`
+
+- 🏆 **5th place** — *Safe Intelligence (Houshe Amn)* hackathon, organized by **Hamrah Aval (MCI) & Quera** — designed an adversarial **LLM security evaluation framework** as **AI Solution Architect**.
+- 🥇 **Ranked 1st** among the 2022 entry cohort, Yazd University (GPA 18.79).
+- 📜 **20 certifications**, incl. *Trustworthiness in Deep Learning* (Sharif University of Technology) and *Service Design with FastAPI* (Maktabkhooneh).
+- 🎙️ **Voice-Over Artist** — records audiobooks for visually impaired students at Yazd University Library.
+- 🐞 **Beta Tester** @ Quera College.
 
 ---
 
@@ -46,7 +77,7 @@ class ZahraRafiei:
 <img src="https://img.shields.io/badge/TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=00F0FF"/>
 <img src="https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=FF00E5"/>
-<img src="https://img.shields.io/badge/Jupyter-0D0221?style=for-the-badge&logo=jupyter&logoColor=FF00E5"/>
+<img src="https://img.shields.io/badge/SQL-0D0221?style=for-the-badge&logo=mysql&logoColor=00F0FF"/>
 
 <br/>
 
@@ -58,18 +89,29 @@ class ZahraRafiei:
 
 <br/>
 
+<img src="https://img.shields.io/badge/LangChain-0D0221?style=for-the-badge&logo=langchain&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/LangGraph-0D0221?style=for-the-badge&logo=langgraph&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-0D0221?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/OpenAI-0D0221?style=for-the-badge&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/ChromaDB-0D0221?style=for-the-badge&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Langfuse-0D0221?style=for-the-badge&logoColor=FF00E5"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/FastAPI-0D0221?style=for-the-badge&logo=fastapi&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/React-0D0221?style=for-the-badge&logo=react&logoColor=00F0FF"/>
 <img src="https://img.shields.io/badge/Node.js-0D0221?style=for-the-badge&logo=nodedotjs&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Vite-0D0221?style=for-the-badge&logo=vite&logoColor=B026FF"/>
-<img src="https://img.shields.io/badge/LangChain-0D0221?style=for-the-badge&logo=chainlink&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Redis-0D0221?style=for-the-badge&logo=redis&logoColor=FF00E5"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/SQL-0D0221?style=for-the-badge&logo=mysql&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Scrapy-0D0221?style=for-the-badge&logo=scrapy&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Selenium-0D0221?style=for-the-badge&logo=selenium&logoColor=00F0FF"/>
 <img src="https://img.shields.io/badge/Docker-0D0221?style=for-the-badge&logo=docker&logoColor=00F0FF"/>
 <img src="https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=FF00E5"/>
 <img src="https://img.shields.io/badge/Linux-0D0221?style=for-the-badge&logo=linux&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Jupyter-0D0221?style=for-the-badge&logo=jupyter&logoColor=FF00E5"/>
 
 </div>
 
@@ -141,7 +183,7 @@ class ZahraRafiei:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0D0221,45:2D0B59,100:0D0221&animation=twinkling"/>
 
-<sub><code>// open to collabs on LLM tooling, applied ML & open-source</code></sub>
+<sub><code>// open to collabs on LLM tooling, model security & applied ML</code></sub>
 <br/>
 <sub>⚡ <b>melodiw82</b> · powered by neon, coffee &amp; late-night commits</sub>
 
