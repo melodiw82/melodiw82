@@ -1,5 +1,148 @@
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zahra-rafiei-8858b8244) 
-# 📊 Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=melodiw82&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- ═══════════════════════════════════════════════════════════════════
+     NEON PROFILE  //  melodiw82  //  Zahra Rafiei
+     Cyberpunk edition — banners, live stats, snake grid
+     ═══════════════════════════════════════════════════════════════════ -->
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D0221,45:2D0B59,100:0D0221&text=ZAHRA%20RAFIEI&fontSize=62&fontColor=00F0FF&fontAlign=50&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20LLM%20Agent%20Builder&descSize=20&descAlign=50&descAlignY=60&animation=twinkling" alt="banner"/>
+
+<a href="https://github.com/melodiw82"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=780&height=70&lines=Building+autonomous+LLM+agents;Shipping+OpenAI-compatible+tooling;Python+%7C+TypeScript+%7C+Deep+Learning;Turning+raw+data+into+decisions;Wired+for+the+neon+grid+%E2%9A%A1" alt="Typing SVG"/></a>
+
+<br/>
+
+<!-- ── socials ─────────────────────────────────────────────────────── -->
+<a href="https://linkedin.com/in/zahra-rafiei-8858b8244"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn"/></a>
+<a href="mailto:z.rafiei.82@gmail.com"><img src="https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=FF00E5" alt="Email"/></a>
+<a href="https://github.com/melodiw82?tab=followers"><img src="https://img.shields.io/badge/Follow-0D0221?style=for-the-badge&logo=github&logoColor=39FF14" alt="Follow"/></a>
+<img src="https://komarev.com/ghpvc/?username=melodiw82&label=PROFILE%20VIEWS&color=FF00E5&style=for-the-badge" alt="Views"/>
+
+</div>
+
+---
+
+## `> whoami`
+
+```python
+class ZahraRafiei:
+    role     = "AI/ML Engineer"
+    focus    = ["LLM agents", "applied ML", "data pipelines", "network freedom"]
+    stack    = ["Python", "TypeScript", "PyTorch", "React"]
+    building = "tools that make AI useful, fast, and open"
+
+    def mission(self) -> str:
+        return "Break the problem down. Ship the neon. Iterate."
+```
+
+> ⚡ I live at the edge of the stack — LLM tooling, messy real-world data, and the networks in between.
+
+---
+
+## `> tech_stack --neon`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=FF00E5"/>
+<img src="https://img.shields.io/badge/Jupyter-0D0221?style=for-the-badge&logo=jupyter&logoColor=FF00E5"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PyTorch-0D0221?style=for-the-badge&logo=pytorch&logoColor=FF00E5"/>
+<img src="https://img.shields.io/badge/TensorFlow-0D0221?style=for-the-badge&logo=tensorflow&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/scikit--learn-0D0221?style=for-the-badge&logo=scikitlearn&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Pandas-0D0221?style=for-the-badge&logo=pandas&logoColor=B026FF"/>
+<img src="https://img.shields.io/badge/NumPy-0D0221?style=for-the-badge&logo=numpy&logoColor=00F0FF"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/FastAPI-0D0221?style=for-the-badge&logo=fastapi&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/React-0D0221?style=for-the-badge&logo=react&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Node.js-0D0221?style=for-the-badge&logo=nodedotjs&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Vite-0D0221?style=for-the-badge&logo=vite&logoColor=B026FF"/>
+<img src="https://img.shields.io/badge/LangChain-0D0221?style=for-the-badge&logo=chainlink&logoColor=00F0FF"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SQL-0D0221?style=for-the-badge&logo=mysql&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Docker-0D0221?style=for-the-badge&logo=docker&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=FF00E5"/>
+<img src="https://img.shields.io/badge/Linux-0D0221?style=for-the-badge&logo=linux&logoColor=39FF14"/>
+
+</div>
+
+---
+
+## `> stats --live`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=melodiw82&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0221&title_color=00F0FF&icon_color=FF00E5&text_color=C7C7E0&ring_color=39FF14"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melodiw82&layout=compact&hide_border=true&bg_color=0D0221&title_color=00F0FF&text_color=C7C7E0&include_all_commits=true&count_private=true"/>
+
+<br/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=melodiw82&hide_border=true&background=0D0221&stroke=2D0B59&ring=FF00E5&fire=39FF14&currStreakNum=00F0FF&currStreakLabel=FF00E5&sideNums=00F0FF&sideLabels=FF00E5&dates=8A8FA8&border_radius=12"/>
+
+<br/>
+
+<!-- Trophy: official app is quota-paused → using a live mirror, swap back to
+     https://github-profile-trophy.vercel.app if it recovers -->
+<img src="https://github-profile-trophy-flax.vercel.app/?username=melodiw82&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+
+</div>
+
+---
+
+## `> contribution_telemetry`
+
+<div align="center">
+
+<!-- Activity graph mirror; official alternative: github-readme-activity-graph.vercel.app -->
+<img width="100%" src="https://ghactivity.mrayush.me/graph?username=melodiw82&bg_color=0D0221&color=00F0FF&line=FF00E5&point=39FF14&area=true&hide_border=true&custom_title=Commit%20Telemetry"/>
+
+</div>
+
+---
+
+## `> featured_projects`
+
+| ⚡ Project | 🛰️ What it is | 🧩 Stack |
+|:--|:--|:--|
+| **[llm-relay-proxy](https://github.com/melodiw82/llm-relay-proxy)** | OpenAI-compatible API for SSRF with streaming (SSE), tool calls, fallback providers, request logging + a live inspection dashboard | `Python` `MIT` |
+| **[opencode-mobile](https://github.com/melodiw82/opencode-mobile)** | A TypeScript plugin extending the opencode AI coding agent | `TypeScript` `MIT` |
+| **[ArioNex](https://github.com/melodiw82/ArioNex)** | Enterprise AI Knowledge Assistant boilerplate | `Python` |
+| **[GSMarena_PhoneAnalysis](https://github.com/melodiw82/GSMarena_PhoneAnalysis)** | Scraping + ML analysis of thousands of phone specs to surface market trends & brand preferences | `Jupyter` `sklearn` `PowerBI` |
+| **[Rayan_AI](https://github.com/melodiw82/Rayan_AI)** | Vault of ML topics — clustering, SVM, PCA, logistic regression, pretrained models | `Jupyter` |
+| **[FoodClassification_DL](https://github.com/melodiw82/FoodClassification_DL)** | Deep-learning food-image classification (InceptionV3 / MobileNetV2) | `Jupyter` `TensorFlow` |
+| **[divar-crawler-py](https://github.com/melodiw82/divar-crawler-py)** | A Python crawler for structured real-world data | `Python` |
+
+<div align="center">
+
+<a href="https://github.com/melodiw82?tab=repositories"><img src="https://img.shields.io/badge/SEE%20ALL%20REPOS-0D0221?style=for-the-badge&logo=github&logoColor=00F0FF"/></a>
+
+</div>
+
+---
+
+## `> git_contribution --eat`
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/melodiw82/melodiw82/output/github-snake-dark.svg" alt="Contribution snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0D0221,45:2D0B59,100:0D0221&animation=twinkling"/>
+
+<sub><code>// open to collabs on LLM tooling, applied ML & open-source</code></sub>
+<br/>
+<sub>⚡ <b>melodiw82</b> · powered by neon, coffee &amp; late-night commits</sub>
+
+</div>
