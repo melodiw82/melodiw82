@@ -7,75 +7,25 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D0221,45:2D0B59,100:0D0221&text=ZAHRA%20RAFIEI&fontSize=62&fontColor=00F0FF&fontAlign=50&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Agents%20%26%20Security&descSize=20&descAlign=50&descAlignY=60&animation=twinkling" alt="banner"/>
 
-<a href="https://github.com/melodiw82"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=820&height=70&lines=AI+Engineer+%40+Searchia;Building+autonomous+LLM+agents;Adversarial+LLM+security+%26+evals;Python+%7C+TypeScript+%7C+Deep+Learning;Wired+for+the+neon+grid+%E2%9A%A1" alt="Typing SVG"/></a>
+<a href="https://github.com/melodiw82"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=820&height=70&lines=AI+Engineer+%40+Searchia;Building+autonomous+LLM+agents;Adversarial+LLM+security+%26+evals;Python+%7C+TypeScript+%7C+Deep+Learning" alt="Typing SVG"/></a>
 
 <br/>
 
 <!-- ── socials ─────────────────────────────────────────────────────── -->
-<a href="https://linkedin.com/in/zahra-rafiei-8858b8244"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/zahra-rafiei-8858b8244/"><img src="https://img.shields.io/badge/LinkedIn-0D0221?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn"/></a>
 <a href="mailto:z.rafiei.82@gmail.com"><img src="https://img.shields.io/badge/Email-0D0221?style=for-the-badge&logo=gmail&logoColor=FF00E5" alt="Email"/></a>
 <a href="https://github.com/melodiw82?tab=followers"><img src="https://img.shields.io/badge/Follow-0D0221?style=for-the-badge&logo=github&logoColor=39FF14" alt="Follow"/></a>
-<img src="https://komarev.com/ghpvc/?username=melodiw82&label=PROFILE%20VIEWS&color=FF00E5&style=for-the-badge" alt="Views"/>
 
 </div>
 
 ---
 
-## `> whoami`
-
-```python
-class ZahraRafiei:
-    name     = "Zahra Rafiei"
-    role     = "AI Engineer @ Searchia"
-    location = "Yazd, Iran"
-    focus    = ["LLM agents", "adversarial LLM security", "applied ML", "data pipelines"]
-
-    experience = {
-        "Searchia":        "AI Engineer / Software Developer",
-        "ELLA":            "Junior AI Engineer — agents, ChromaDB, LangGraph",
-        "Quera":           "Data Science Intern",
-        "Yazd University": "Teaching Assistant — Data Structures",
-    }
-
-    def mission(self) -> str:
-        return "Build AI that is useful, fast, and trustworthy. Ship the neon. Iterate."
-```
-
-> ⚡ AI Engineer working across LLM agent systems, model security, and applied machine learning on messy real-world data.
-
----
-
-## `> experience --timeline`
-
-| 💼 Role | 🏢 Org | 🗓️ When |
-|:--|:--|:--|
-| **AI Engineer** | Searchia · *Remote* | Aug 2026 – Present |
-| **Software Developer** | Searchia · *Remote* | Jan 2026 – Aug 2026 |
-| **Junior AI Engineer** | ELLA — Exclusive Large Language Assistant | Mar 2025 – Dec 2025 |
-| **Data Science Intern** | Quera | Mar 2024 – Aug 2024 |
-| **Teaching Assistant — Data Structures** | Yazd University | Jan 2024 – Jun 2024 |
-
-**🎓 Education** — B.Sc. Computer Engineering (Software), **Yazd University** · Sep 2022 – Feb 2025 · **GPA 18.79** · 🥇 ranked **1st** in the 2022 cohort · NODET (Sampad)
-
----
-
-## `> achievements --unlocked`
-
-- 🏆 **5th place** — *Safe Intelligence (Houshe Amn)* hackathon, organized by **Hamrah Aval (MCI) & Quera** — designed an adversarial **LLM security evaluation framework** as **AI Solution Architect**.
-- 🥇 **Ranked 1st** among the 2022 entry cohort, Yazd University (GPA 18.79).
-- 📜 **20 certifications**, incl. *Trustworthiness in Deep Learning* (Sharif University of Technology) and *Service Design with FastAPI* (Maktabkhooneh).
-- 🎙️ **Voice-Over Artist** — records audiobooks for visually impaired students at Yazd University Library.
-- 🐞 **Beta Tester** @ Quera College.
-
----
-
-## `> tech_stack --neon`
+## Tech Stack
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=00F0FF"/>
 <img src="https://img.shields.io/badge/TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=FF00E5"/>
 <img src="https://img.shields.io/badge/SQL-0D0221?style=for-the-badge&logo=mysql&logoColor=00F0FF"/>
 
@@ -100,8 +50,6 @@ class ZahraRafiei:
 
 <img src="https://img.shields.io/badge/FastAPI-0D0221?style=for-the-badge&logo=fastapi&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/React-0D0221?style=for-the-badge&logo=react&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Node.js-0D0221?style=for-the-badge&logo=nodedotjs&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/Vite-0D0221?style=for-the-badge&logo=vite&logoColor=B026FF"/>
 <img src="https://img.shields.io/badge/Redis-0D0221?style=for-the-badge&logo=redis&logoColor=FF00E5"/>
 
 <br/>
@@ -117,7 +65,7 @@ class ZahraRafiei:
 
 ---
 
-## `> stats --live`
+## GitHub Stats
 
 <div align="center">
 
@@ -138,26 +86,14 @@ class ZahraRafiei:
 
 ---
 
-## `> contribution_telemetry`
+## Featured Projects
 
-<div align="center">
-
-<!-- Activity graph mirror; official alternative: github-readme-activity-graph.vercel.app -->
-<img width="100%" src="https://ghactivity.mrayush.me/graph?username=melodiw82&bg_color=0D0221&color=00F0FF&line=FF00E5&point=39FF14&area=true&hide_border=true&custom_title=Commit%20Telemetry"/>
-
-</div>
-
----
-
-## `> featured_projects`
-
-| ⚡ Project | 🛰️ What it is | 🧩 Stack |
+| Project | What it is | Stack |
 |:--|:--|:--|
 | **[llm-relay-proxy](https://github.com/melodiw82/llm-relay-proxy)** | OpenAI-compatible API for SSRF with streaming (SSE), tool calls, fallback providers, request logging + a live inspection dashboard | `Python` `MIT` |
 | **[opencode-mobile](https://github.com/melodiw82/opencode-mobile)** | A TypeScript plugin extending the opencode AI coding agent | `TypeScript` `MIT` |
 | **[ArioNex](https://github.com/melodiw82/ArioNex)** | Enterprise AI Knowledge Assistant boilerplate | `Python` |
 | **[GSMarena_PhoneAnalysis](https://github.com/melodiw82/GSMarena_PhoneAnalysis)** | Scraping + ML analysis of thousands of phone specs to surface market trends & brand preferences | `Jupyter` `sklearn` `PowerBI` |
-| **[Rayan_AI](https://github.com/melodiw82/Rayan_AI)** | Vault of ML topics — clustering, SVM, PCA, logistic regression, pretrained models | `Jupyter` |
 | **[FoodClassification_DL](https://github.com/melodiw82/FoodClassification_DL)** | Deep-learning food-image classification (InceptionV3 / MobileNetV2) | `Jupyter` `TensorFlow` |
 | **[divar-crawler-py](https://github.com/melodiw82/divar-crawler-py)** | A Python crawler for structured real-world data | `Python` |
 
@@ -169,7 +105,7 @@ class ZahraRafiei:
 
 ---
 
-## `> git_contribution --eat`
+## Contributions
 
 <div align="center">
 
@@ -182,9 +118,5 @@ class ZahraRafiei:
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0D0221,45:2D0B59,100:0D0221&animation=twinkling"/>
-
-<sub><code>// open to collabs on LLM tooling, model security & applied ML</code></sub>
-<br/>
-<sub>⚡ <b>melodiw82</b> · powered by neon, coffee &amp; late-night commits</sub>
 
 </div>
