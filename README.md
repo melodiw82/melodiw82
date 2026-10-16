@@ -5,9 +5,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D0221,45:2D0B59,100:0D0221&text=ZAHRA%20RAFIEI&fontSize=62&fontColor=00F0FF&fontAlign=50&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Agents%20%26%20Security&descSize=20&descAlign=50&descAlignY=60&animation=twinkling" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D0221,45:2D0B59,100:0D0221&text=ZAHRA%20RAFIEI&fontSize=62&fontColor=00F0FF&fontAlign=50&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Agents%20%2F%20Security&descSize=20&descAlign=50&descAlignY=60&animation=twinkling" alt="banner"/>
 
-<a href="https://github.com/melodiw82"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=820&height=70&lines=AI+Engineer+%40+Searchia;Building+autonomous+LLM+agents;Adversarial+LLM+security+%26+evals;Python+%7C+TypeScript+%7C+Deep+Learning" alt="Typing SVG"/></a>
+<a href="https://github.com/melodiw82"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=820&height=70&lines=AI+Engineer;Building+autonomous+LLM+agents;Adversarial+LLM+security+and+evals;Python+%7C+TypeScript+%7C+Deep+Learning" alt="Typing SVG"/></a>
 
 <br/>
 
@@ -26,13 +26,11 @@
 
 <img src="https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=00F0FF"/>
 <img src="https://img.shields.io/badge/TypeScript-0D0221?style=for-the-badge&logo=typescript&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Java-0D0221?style=for-the-badge&logo=openjdk&logoColor=FF00E5"/>
-<img src="https://img.shields.io/badge/SQL-0D0221?style=for-the-badge&logo=mysql&logoColor=00F0FF"/>
+<img src="https://img.shields.io/badge/PyTorch-0D0221?style=for-the-badge&logo=pytorch&logoColor=FF00E5"/>
+<img src="https://img.shields.io/badge/TensorFlow-0D0221?style=for-the-badge&logo=tensorflow&logoColor=39FF14"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/PyTorch-0D0221?style=for-the-badge&logo=pytorch&logoColor=FF00E5"/>
-<img src="https://img.shields.io/badge/TensorFlow-0D0221?style=for-the-badge&logo=tensorflow&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/scikit--learn-0D0221?style=for-the-badge&logo=scikitlearn&logoColor=00F0FF"/>
 <img src="https://img.shields.io/badge/Pandas-0D0221?style=for-the-badge&logo=pandas&logoColor=B026FF"/>
 <img src="https://img.shields.io/badge/NumPy-0D0221?style=for-the-badge&logo=numpy&logoColor=00F0FF"/>
@@ -41,25 +39,12 @@
 
 <img src="https://img.shields.io/badge/LangChain-0D0221?style=for-the-badge&logo=langchain&logoColor=00F0FF"/>
 <img src="https://img.shields.io/badge/LangGraph-0D0221?style=for-the-badge&logo=langgraph&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-0D0221?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
-<img src="https://img.shields.io/badge/OpenAI-0D0221?style=for-the-badge&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/ChromaDB-0D0221?style=for-the-badge&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Langfuse-0D0221?style=for-the-badge&logoColor=FF00E5"/>
-
-<br/>
-
 <img src="https://img.shields.io/badge/FastAPI-0D0221?style=for-the-badge&logo=fastapi&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/React-0D0221?style=for-the-badge&logo=react&logoColor=00F0FF"/>
-<img src="https://img.shields.io/badge/Redis-0D0221?style=for-the-badge&logo=redis&logoColor=FF00E5"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Scrapy-0D0221?style=for-the-badge&logo=scrapy&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/Selenium-0D0221?style=for-the-badge&logo=selenium&logoColor=00F0FF"/>
 <img src="https://img.shields.io/badge/Docker-0D0221?style=for-the-badge&logo=docker&logoColor=00F0FF"/>
 <img src="https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=FF00E5"/>
-<img src="https://img.shields.io/badge/Linux-0D0221?style=for-the-badge&logo=linux&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/Jupyter-0D0221?style=for-the-badge&logo=jupyter&logoColor=FF00E5"/>
 
 </div>
 
@@ -75,12 +60,6 @@
 <br/>
 
 <img width="100%" src="https://streak-stats.demolab.com?user=melodiw82&hide_border=true&background=0D0221&stroke=2D0B59&ring=FF00E5&fire=39FF14&currStreakNum=00F0FF&currStreakLabel=FF00E5&sideNums=00F0FF&sideLabels=FF00E5&dates=8A8FA8&border_radius=12"/>
-
-<br/>
-
-<!-- Trophy: official app is quota-paused → using a live mirror, swap back to
-     https://github-profile-trophy.vercel.app if it recovers -->
-<img src="https://github-profile-trophy-flax.vercel.app/?username=melodiw82&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
@@ -110,13 +89,5 @@
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/melodiw82/melodiw82/output/github-snake-dark.svg" alt="Contribution snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0D0221,45:2D0B59,100:0D0221&animation=twinkling"/>
 
 </div>
